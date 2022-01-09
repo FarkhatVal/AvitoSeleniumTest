@@ -1,0 +1,33 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=264ed64e_002Df5dc_002D4767_002D9017_002Def0a4d42b58b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1 #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B5A2700A-8A20-474C-86CF-6939DDB447D6::net6.0::TestSelenium.Avito_ruTest.Test1&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3a28097a_002D4c2c_002D4106_002Db23f_002D858d45aff91d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B5A2700A-8A20-474C-86CF-6939DDB447D6::net6.0::TestSelenium.Avito_ruTest.Test1&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8ae55612_002Dbce6_002D4ffd_002D8348_002D0d01c0547a4c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B5A2700A-8A20-474C-86CF-6939DDB447D6::net6.0::TestSelenium.Tests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B5A2700A-8A20-474C-86CF-6939DDB447D6::net6.0::TestSelenium.OldKZNMyProfileEditTest+Tests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B5A2700A-8A20-474C-86CF-6939DDB447D6::net6.0::TestSelenium.Avito_ruTest.Test1&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=adc34a24_002D5fa2_002D48c4_002D8305_002Dd20bf84b1022/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1 #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B5A2700A-8A20-474C-86CF-6939DDB447D6::net6.0::TestSelenium.Avito_ruTest.Test1&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d3093d83_002D33aa_002D4be5_002D8bf8_002D1a93dd642c2e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1 #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B5A2700A-8A20-474C-86CF-6939DDB447D6::net6.0::TestSelenium.Avito_ruTest.Test1&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e99edc24_002D553a_002D4975_002D94ad_002D7258dab531fc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test1 #6" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B5A2700A-8A20-474C-86CF-6939DDB447D6::net6.0::AvitoSeleniumTest.AvitoRuTest.Test1&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
