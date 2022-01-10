@@ -30,7 +30,7 @@ public class AvitoRuTest
     }
 
     [Test]
-    public void Test1()
+    public void CheckCostFilter()
     {
         driver.Navigate().GoToUrl(Url);
         driver.Manage().Window.Maximize();
@@ -58,7 +58,7 @@ public class AvitoRuTest
             string cleanText = Regex.Replace(text, "[^0-9]", "");
             Console.WriteLine(cleanText);
             int priceVolue = int.Parse(cleanText);
-            Assert.True((int.Parse(ValuePriceFrom) <= priceVolue || priceVolue >= int.Parse(ValuePriceTo)), $"Стоимость не верная, стоиомть ровна {priceVolue}");
+            Assert.True((int.Parse(ValuePriceFrom) <= priceVolue || priceVolue >= int.Parse(ValuePriceTo)), $"Стоимость не входит в диапазон фильтра: от {ValuePriceFrom} и до {ValuePriceTo}. Стоиомть равна {priceVolue}");
         }
     }
 }
