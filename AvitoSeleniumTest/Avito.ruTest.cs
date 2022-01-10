@@ -30,7 +30,7 @@ public class AvitoRuTest
     }
 
     [Test]
-    public void CheckCostFilter()
+    public void Test1()
     {
         driver.Navigate().GoToUrl(Url);
         driver.Manage().Window.Maximize();
